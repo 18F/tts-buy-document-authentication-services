@@ -1,6 +1,6 @@
 # Login.gov Document Authentication Services
 
-This is the GitHub repository for [TTS_DOCAUTH](https://www.fbo.gov/index?id=667170854a2b71ab27c82846e3baeea8), posted on FedBizOpps.gov. Please submit any questions as [an Issue](https://github.com/18F/tts-buy-document-authentication-services/issues) in this repository by *November 17, 2017 at 1:00pm EST*. The Contracting Officer will only be responding to questions submitted using the [Issue Template](ISSUE_TEMPLATE.md). Comments from other parties or in other formats will still be considered but we cannot commit to responding to them.
+This is the GitHub repository for [TTS_DOCAUTH](https://www.fbo.gov/notices/66ce42a96d8e4459309749b86dad84dd), posted on FedBizOpps.gov. Please submit any questions as [an Issue](https://github.com/18F/tts-buy-document-authentication-services/issues) in this repository by *November 17, 2017 at 1:00pm EST*. The Contracting Officer will only be responding to questions submitted using the [Issue Template](ISSUE_TEMPLATE.md). Comments from other parties or in other formats will still be considered but we cannot commit to responding to them.
 
 **Proposals are due by December 8, 2017 at 1:00pm EST.**
 
