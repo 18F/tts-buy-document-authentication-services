@@ -38,7 +38,7 @@ Additional information is provided in Section 3 of the RFQ, but in short:
 
 3. [Attachment B - Template Sources](solicitation_documents/Attachment-B_Template_Sources.xlsx)
 
-4. [Attachment C - SLA Requirements](solicitation_documents/Attachment-C_SLA_Requirements.xlsx)
+4. [Attachment C - SLA Requirements](solicitation_documents/Attachment-C_SLA_Requirements-Revised.xlsx)
 
 5. [Attachment D - Deployment Options](solicitation_documents/Attachment-D_Deployment_Options.pdf)
 
